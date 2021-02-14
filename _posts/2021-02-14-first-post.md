@@ -1,5 +1,5 @@
 ---
-
+layout: post
 title: "Hello,world!"
 excerpt: "I launched my github blog today."
 
